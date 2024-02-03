@@ -1,0 +1,17 @@
+.container {
+    padding: 0 400px;
+}
+
+.box-1 {
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    float: left;
+}
+
+.box-2 {
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+    float: right;
+}
